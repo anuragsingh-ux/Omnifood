@@ -14,8 +14,8 @@ A modern, fully responsive landing page for a fictional food delivery service, b
 
 | Technology     | Purpose                              |
 |----------------|--------------------------------------|
-| **HTML5**      | Markup and semantic structure        |
-| **CSS3**       | Styling, Flexbox, Grid, animations   |
+| **HTML**      | Markup and semantic structure        |
+| **CSS**       | Styling, Flexbox, Grid, animations   |
 | **JavaScript** | DOM manipulation, interactions       |
 | **Git & GitHub** | Version control and code hosting  |
 | **Vercal** | Live deployment         |
