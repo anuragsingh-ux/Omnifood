@@ -6,7 +6,7 @@ A modern, fully responsive landing page for a fictional food delivery service, b
 
 ## 🌐 Live Demo
 
-👉 [Click to View Live](https://anuragsingh-ux.github.io/Omnifood/)
+👉 [Click to View Live](https://anurag-omnifood.vercel.app/)
 
 ---
 
@@ -18,7 +18,7 @@ A modern, fully responsive landing page for a fictional food delivery service, b
 | **CSS3**       | Styling, Flexbox, Grid, animations   |
 | **JavaScript** | DOM manipulation, interactions       |
 | **Git & GitHub** | Version control and code hosting  |
-| **Netlify / GitHub Pages** | Live deployment         |
+| **Vercal** | Live deployment         |
 
 ---
 
@@ -36,13 +36,13 @@ A modern, fully responsive landing page for a fictional food delivery service, b
 
 To run the project locally:
 
-# Clone the repository
+### Clone the repository
 git clone https://github.com/anuragsingh-ux/Omnifood.git
 
-# Navigate to project folder
+### Navigate to project folder
 cd Omnifood
 
-# Open index.html in your browser
+### Open index.html in your browser
 (no build tools needed)
 
 ---
@@ -55,5 +55,16 @@ cd Omnifood
 - ✅ Responsive web design using media queries  
 - ✅ Creating engaging user interfaces with transitions and animations  
 - ✅ Hosting static websites on GitHub Pages  
+
+</details>
+
+---
+
+<details>
+  <summary>👨‍💻 <strong>Author</strong></summary>
+
+**Anurag Singh**  
+🔗 [LinkedIn](https://www.linkedin.com/in/curious-anurag/)  
+🌐 [Portfolio](https://anuragsingh-ux.github.io/Portfolio/)
 
 </details>
